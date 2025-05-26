@@ -1,4 +1,4 @@
-# ECE648 - Machine Learning
+### ECE648 - Machine Learning
 
 University of Miami
 
