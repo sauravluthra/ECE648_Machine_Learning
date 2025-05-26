@@ -1,1 +1,5 @@
-# ECE648_Machine_Learning
+# ECE648 - Machine Learning
+
+University of Miami
+
+Coursework
